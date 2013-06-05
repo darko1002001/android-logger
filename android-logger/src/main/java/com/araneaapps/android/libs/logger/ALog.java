@@ -1,4 +1,4 @@
-package com.dg.libs.android.logger;
+package com.araneaapps.android.libs.logger;
 
 import android.util.Log;
 
