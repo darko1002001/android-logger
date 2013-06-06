@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.aranea-apps.android.libs</groupId>
 	<artifactId>android-logger</artifactId>
-	<version>1.0.10-SNAPSHOT</version>
+	<version>1.0.10</version>
 	<packaging>jar</packaging>
 	<name>android-logger</name>
 	<description>This is a library for android for Logging messages to LogCat</description>
@@ -35,7 +35,7 @@
 		<url>scm:git:git@github.com:darko1002001/android-logger.git</url>
 		<connection>scm:git:git@github.com:darko1002001/android-logger.git</connection>
 		<developerConnection>scm:git:git@github.com:darko1002001/android-logger.git</developerConnection>
-		<tag>android-logger-1.0.2</tag>
+		<tag>android-logger-1.0.10</tag>
 	</scm>
 
 	<issueManagement>
