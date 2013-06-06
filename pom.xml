@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.aranea-apps.android.libs</groupId>
 	<artifactId>android-logger</artifactId>
-	<version>1.0.10-SNAPSHOT</version>
+	<version>1.0.9-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>android-logger</name>
 	<description>This is a library for android for Logging messages to LogCat</description>
