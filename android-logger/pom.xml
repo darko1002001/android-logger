@@ -153,6 +153,22 @@
         </snapshotRepository>
 
     </distributionManagement>
+    <profiles>
+        <profile>
+            <id>release</id>
+            <activation>
+                <property>
+                    <name>performRelease</name>
+                    <value>true</value>
+                </property>
+                <file>
+                    <exists>${project.basedir}/AndroidManifest.xml</exists>
+                </file>
+            </activation>
 
+        </profile>
+
+
+    </profiles>
 
 </project>
